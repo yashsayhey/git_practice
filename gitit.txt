@@ -20,6 +20,6 @@ MERGE COMMAND
 git merge <branch_name>
 
 PUSHING TO GITHUB
-git add remote origin <URL>
+git remote add origin <URL>
 git push origin <branch name>
 
