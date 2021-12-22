@@ -1,0 +1,25 @@
+BASIC COMMANDS:
+git status - Staged changes or unstaged changes
+git diff - Tells the specific changes made
+git add <filename> or git add . - Stage the changes
+git commit -m 'message' - Add the staged the changes to the timeline of the current branch
+git log - Tells the commit history with head pointing to the latest commit along with master branche and other branches
+git config user.name
+git config user.email
+
+Initially all the commits are made on master branch
+
+COMMANDS RELATED TO BRANCHING 
+git branch - Tells the branch to which the head is pointing at
+git checkout <commit id> - Points the head at commit id mentioned
+git checkout <branch_name> Points the head at the <branch_name>
+git checkout -b <new_branch_name> - Create a new branch from the exisitng/current branch
+git branch -d <to_be_deleted_branch> - Delete the branch (not the current one)
+
+MERGE COMMAND
+git merge <branch_name>
+
+PUSHING TO GITHUB
+git add remote origin <URL>
+git push origin <branch name>
+
