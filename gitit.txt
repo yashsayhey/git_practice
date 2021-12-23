@@ -24,6 +24,6 @@ PUSHING TO GITHUB
 git remote add origin <URL>
 git push origin <branch name>
 
-CLONING
+CLONING testing
 git clone <URL>
 
