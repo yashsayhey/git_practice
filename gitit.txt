@@ -27,3 +27,4 @@ git push origin <branch name>
 CLONING
 git clone <URL>
 
+yashsay30 has made some changes
