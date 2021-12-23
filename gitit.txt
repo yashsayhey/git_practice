@@ -28,3 +28,5 @@ CLONING testing
 git clone <URL>
 
 yashsay30 has made some changes
+
+git pull - pull from remote repository to local repository
